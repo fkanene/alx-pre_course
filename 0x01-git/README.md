@@ -1,1 +1,1 @@
-My first readme
+it time to code

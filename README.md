@@ -1,1 +1,1 @@
-up to date
+how to stay up to date

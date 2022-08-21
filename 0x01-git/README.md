@@ -1,1 +1,1 @@
-staying up to date in git
+project 4 is a bit challenging
